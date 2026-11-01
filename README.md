@@ -15,5 +15,5 @@ The Water Supply Complaint & Billing System is a system designed to help water c
 
 ## Team Members
 
-- Student: Mariam Ahmed Sadek Abou Ghaleb
-- Student: Habiba Taher Fathy Elzaqzoqy
+- Student: Mariam Ahmed Sadek Abou Ghaleb (section 1).
+- Student: Habiba Taher Fathy Elzaqzoqy (section 1).
